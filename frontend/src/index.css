@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.container {
+  background-color: #1d1d1d;
+}
+
+.thread-container {
+  overflow-y: scroll;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+}
+.thread-container::-webkit-scrollbar {
+  /* WebKit */
+  width: 0;
+  height: 0;
+}
+
+/* ==================================================================================================================================================== */
+.row-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+.row-nospace {
+  display: flex;
+}
+
+.tab {
+  cursor: pointer;
+  color: #676b6f;
+  text-align: center;
+  align-items: center;
+  height: 40px;
+}
+
+.feed-more-icon {
+  margin-right: 15px;
+}
+
+.feed-item {
+  /* margin-bottom: 10px; */
+  padding-top: 20px;
+  padding-left: 20px;
+  border-bottom: 1px solid #181818;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.feed-item:hover {
+  background-color: #080808;
+}
+
+.feed-item-info > .MuiTypography-root {
+  font-size: 0.8rem;
+  font-weight: bold;
+  margin-right: 5px;
+  color: #ffffff;
+}
+
+.feed-item-info > p {
+  font-size: 0.9rem;
+  margin-right: 5px;
+  color: #676b6f;
+  margin-top: -4px;
+  font-weight: 500;
+}
+
+.feed-item-content {
+  margin-top: -25px;
+  margin-left: 60px;
+}
+
+.feed-item-content > .MuiTypography-root {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #e7e9ea;
+  margin-bottom: 10px;
+}
+
+.feed-item-footer {
+  margin-left: 60px;
+  margin-bottom: 2px;
+}
+
+.feed-item-icons {
+  margin-top: -10px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.feed-item-footer > .row-between > .feed-item-icons > .MuiSvgIcon-root {
+  width: 30px;
+  height: 30px;
+  color: #676b6f;
+  padding: 6px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.feed-item-footer > .row-between > .feed-item-icons > p {
+  color: #676b6f;
+  margin-top: 5px;
+  margin-left: 5px;
+  font-size: 0.8rem;
+}
+
+/* Diff Icons Diff Colors */
+
+.feed-item-footer > .row-between > .View:hover > .MuiSvgIcon-root {
+  color: #1d9bf0;
+  background-color: #0a171f;
+}
+
+.feed-item-footer > .row-between > .View:hover > p {
+  color: #1d9bf0;
+}
+
+.feed-item-footer > .row-between > .Reply:hover > .MuiSvgIcon-root {
+  color: #1d9bf0;
+  background-color: #0a171f;
+}
+
+.feed-item-footer > .row-between > .Reply:hover > p {
+  color: #1d9bf0;
+}
+
+.feed-item-footer > .row-between > .Share:hover > .MuiSvgIcon-root {
+  color: #1d9bf0;
+  background-color: #0a171f;
+}
+
+.feed-item-footer > .row-between > .Share:hover > p {
+  color: #1d9bf0;
+}
+
+.feed-item-footer > .row-between > .ReTweet:hover > .MuiSvgIcon-root {
+  color: #00b075;
+  background-color: #071a14;
+}
+
+.feed-item-footer > .row-between > .ReTweet:hover > p {
+  color: #00b075;
+}
+
+.feed-item-footer > .row-between > .Like:hover > .MuiSvgIcon-root {
+  color: #f91880;
+  background-color: #200914;
+}
+
+.feed-item-footer > .row-between > .Like:hover > p {
+  color: #f91880;
+}

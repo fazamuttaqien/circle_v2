@@ -1,0 +1,136 @@
+2024-05-16 01:44:04:444 [32minfo[39m: [32mServer is running at http://localhost:3002[39m
+2024-05-16 01:44:50:4450 [32minfo[39m: [32mServer is running at http://localhost:3002[39m
+2024-05-16 01:45:11:4511 [32minfo[39m: [32mValidation of body data register was successful[39m
+2024-05-16 01:45:11:4511 [32minfo[39m: [32mEmail does not exist[39m
+2024-05-16 01:45:11:4511 [32minfo[39m: [32mUser created successfully[39m
+2024-05-16 01:46:49:4649 [32minfo[39m: [32mServer is running at http://localhost:3002[39m
+2024-05-16 01:46:56:4656 [32minfo[39m: [32mValidation of body data register was successful[39m
+2024-05-16 01:46:56:4656 [32minfo[39m: [32mEmail does not exist[39m
+2024-05-16 01:46:56:4656 [32minfo[39m: [32mUser created successfully[39m
+2024-05-16 01:47:33:4733 [32minfo[39m: [32mServer is running at http://localhost:3002[39m
+2024-05-16 01:47:39:4739 [32minfo[39m: [32mValidation of body data register was successful[39m
+2024-05-16 01:47:39:4739 [31merror[39m: [31mEmail already exist[39m
+2024-05-16 02:05:05:55 [32minfo[39m: [32mServer is running at http://localhost:3002[39m
+2024-05-16 02:05:25:525 [32minfo[39m: [32mValidation of body data register was successful[39m
+2024-05-16 02:05:25:525 [32minfo[39m: [32mUser created successfully[39m
+2024-05-16 02:07:19:719 [32minfo[39m: [32mServer is running at http://localhost:3002[39m
+2024-05-16 02:07:30:730 [32minfo[39m: [32mValidation of body data register was successful[39m
+2024-05-16 02:07:30:730 [32minfo[39m: [32mUser created successfully[39m
+2024-05-16 15:31:12:3112 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-16 15:36:58:3658 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-18 11:27:20:2720 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 19:49:20:4920 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 19:49:34:4934 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 19:51:20:5120 [31merror[39m: [31m[[39m
+[31m  {[39m
+[31m    message: '"fullname" length must be at least 5 characters long',[39m
+[31m    path: [ 'fullname' ],[39m
+[31m    type: 'string.min',[39m
+[31m    context: {[39m
+[31m      limit: 5,[39m
+[31m      value: 'faza',[39m
+[31m      encoding: undefined,[39m
+[31m      label: 'fullname',[39m
+[31m      key: 'fullname'[39m
+[31m    }[39m
+[31m  }[39m
+[31m][39m
+2024-05-19 19:52:14:5214 [32minfo[39m: [32mValidation of body data register was successful[39m
+2024-05-19 19:52:18:5218 [32minfo[39m: [32mUser created successfully[39m
+2024-05-19 19:52:53:5253 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 19:53:09:539 [32minfo[39m: [32mValidation of body data register was successful[39m
+2024-05-19 19:53:13:5313 [32minfo[39m: [32mUser created successfully[39m
+2024-05-19 19:53:39:5339 [31merror[39m: [31m[[39m
+[31m  {[39m
+[31m    message: '"username" is required',[39m
+[31m    path: [ 'username' ],[39m
+[31m    type: 'any.required',[39m
+[31m    context: { label: 'username', key: 'username' }[39m
+[31m  }[39m
+[31m][39m
+2024-05-19 19:53:49:5349 [32minfo[39m: [32mValidation of body data register was successful[39m
+2024-05-19 19:53:52:5352 [32minfo[39m: [32mUser created successfully[39m
+2024-05-19 19:58:05:585 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 19:58:51:5851 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:03:45:345 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:04:22:422 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:05:38:538 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:06:55:655 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:07:11:711 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:11:12:1112 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:15:53:1553 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:17:05:175 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:18:35:1835 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:24:20:2420 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:25:05:255 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:47:09:479 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 20:48:16:4816 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 21:35:59:3559 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 21:36:21:3621 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 21:37:46:3746 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 21:40:22:4022 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 21:43:22:4322 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 21:44:37:4437 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 21:47:55:4755 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:01:38:138 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:02:28:228 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:02:48:248 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:03:28:328 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:04:09:49 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:05:21:521 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:05:51:551 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:06:32:632 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:07:13:713 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:07:38:738 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:10:32:1032 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:11:09:119 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-19 22:12:11:1211 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 00:46:28:4628 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 00:46:50:4650 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:20:59:2059 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:21:53:2153 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:22:06:226 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:48:05:485 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:51:19:5119 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:52:25:5225 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:52:50:5250 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:53:42:5342 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:54:11:5411 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:54:38:5438 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:55:24:5524 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:55:57:5557 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:56:03:563 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:57:17:5717 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:57:56:5756 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:58:20:5820 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 02:59:54:5954 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 03:00:23:023 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 03:00:46:046 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 03:01:12:112 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 03:02:38:238 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 03:03:08:38 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 03:04:30:430 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 03:05:02:52 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 03:07:02:72 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 03:07:17:717 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 03:07:56:756 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 04:06:34:634 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 04:57:05:575 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 06:05:06:56 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 06:05:33:533 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 06:07:13:713 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 06:16:24:1624 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 06:17:06:176 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 07:35:34:3534 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 07:37:02:372 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 08:02:36:236 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 08:35:59:3559 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 10:15:20:1520 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 10:16:20:1620 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 10:16:46:1646 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 10:24:45:2445 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 10:26:18:2618 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 10:26:55:2655 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-20 10:33:24:3324 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-21 06:05:41:541 [32minfo[39m: [32mServer is running at http://localhost:5001[39m
+2024-05-21 06:06:23:623 [32minfo[39m: [32mServer is running at http://localhost:5001[39m

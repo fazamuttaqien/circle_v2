@@ -1,0 +1,23 @@
+2024-05-16 01:47:39:4739 [31merror[39m: [31mEmail already exist[39m
+2024-05-19 19:51:20:5120 [31merror[39m: [31m[[39m
+[31m  {[39m
+[31m    message: '"fullname" length must be at least 5 characters long',[39m
+[31m    path: [ 'fullname' ],[39m
+[31m    type: 'string.min',[39m
+[31m    context: {[39m
+[31m      limit: 5,[39m
+[31m      value: 'faza',[39m
+[31m      encoding: undefined,[39m
+[31m      label: 'fullname',[39m
+[31m      key: 'fullname'[39m
+[31m    }[39m
+[31m  }[39m
+[31m][39m
+2024-05-19 19:53:39:5339 [31merror[39m: [31m[[39m
+[31m  {[39m
+[31m    message: '"username" is required',[39m
+[31m    path: [ 'username' ],[39m
+[31m    type: 'any.required',[39m
+[31m    context: { label: 'username', key: 'username' }[39m
+[31m  }[39m
+[31m][39m
